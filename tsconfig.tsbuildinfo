@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/ProductForm.tsx","./src/services/stock.ts","./src/services/stockAI.ts","./src/types/index.ts"],"errors":true,"version":"5.8.3"}
